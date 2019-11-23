@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="18" tilewidth="8" tileheight="8" nextobjectid="1">
+ <tileset firstgid="1" name="base" tilewidth="8" tileheight="8" tilecount="6232">
+  <image source="Game Boy GBC - Pokemon Red Blue - Tileset.png" width="608" height="656"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="18">
+  <data encoding="base64" compression="zlib">
+   eJwT4WVgEMGBnfmwY1zqCWFqm/eED4KnMzMwzGCGmPWEAvPmCELwY6BZT5gRfHLMEgPiYi7sWJAM837hMe8rGebhMguGB9q8Oh7cZlXyDHx8DGXzyEkvIPOYhRkYWISpE78g8/yBZgVQ0Tx090kDxWR4yU8v6O5LB4pl8JIXHxuAuIYHgpHTcRUQi+PRBwDfJFo2
+  </data>
+ </layer>
+</map>
